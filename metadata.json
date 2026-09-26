@@ -1,0 +1,6 @@
+{
+  "name": "Ador Tutorial Center",
+  "description": "Official multilingual platform and operations hub for Ador Tutorial Center featuring Core Values, Mission, Vision, live Tutoring Job Board, and portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

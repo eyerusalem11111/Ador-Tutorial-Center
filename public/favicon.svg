@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="180 170 640 460" width="100%" height="100%">
+  <defs>
+    <mask id="favicon-mask">
+      <rect x="0" y="0" width="1000" height="1000" fill="#FFFFFF" />
+      <rect
+        x="360"
+        y="264"
+        width="280"
+        height="18"
+        transform="rotate(45 500 273)"
+        fill="#000000"
+      />
+      <rect
+        x="190"
+        y="501"
+        width="280"
+        height="18"
+        transform="rotate(45 330 510)"
+        fill="#000000"
+      />
+      <rect
+        x="530"
+        y="501"
+        width="280"
+        height="18"
+        transform="rotate(45 670 510)"
+        fill="#000000"
+      />
+    </mask>
+  </defs>
+
+  <path
+    fill="#0054B6"
+    fill-rule="evenodd"
+    mask="url(#favicon-mask)"
+    d="
+      M 430 202
+      L 570 202
+      L 790 600
+      L 210 600
+      Z
+      M 500 345
+      L 595 510
+      L 405 510
+      Z
+    "
+  />
+
+  <g fill="#FFFFFF">
+    <rect
+      x="360"
+      y="264"
+      width="280"
+      height="18"
+      transform="rotate(45 500 273)"
+    />
+    <rect
+      x="190"
+      y="501"
+      width="280"
+      height="18"
+      transform="rotate(45 330 510)"
+    />
+    <rect
+      x="530"
+      y="501"
+      width="280"
+      height="18"
+      transform="rotate(45 670 510)"
+    />
+  </g>
+</svg>
